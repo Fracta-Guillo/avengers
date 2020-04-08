@@ -1,5 +1,6 @@
 # Miembros
 
+* Nick lu
 * Capitan america
 * Black panther
 * Black Widow
